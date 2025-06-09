@@ -16,10 +16,17 @@ https://github.com/user-attachments/assets/c38cef54-4fa7-460b-90ba-b85b78e2806d
 ## 🌐 Cross-Platform Play
 
 Play seamlessly on both **desktop/laptop** and **mobile browsers** — no installation needed!
-### Laptop
-![Screenshot 2025-06-10 024459](https://github.com/user-attachments/assets/0b09ca50-a063-4a36-9123-95011d090d5e)
-### Mobile
-![wp](https://github.com/user-attachments/assets/dba71abd-4c55-4b22-a227-ef18ad42a088)
+<h3 align="center">Laptop & Mobile</h3>
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/0b09ca50-a063-4a36-9123-95011d090d5e"
+       alt="Laptop View"
+       style="height: 300px; object-fit: contain; border: 1px solid #ccc;" />
+  <img src="https://github.com/user-attachments/assets/dba71abd-4c55-4b22-a227-ef18ad42a088"
+       alt="Mobile View"
+       style="height: 300px; object-fit: contain; border: 1px solid #ccc;" />
+</p>
+
+
 
 ---
 
