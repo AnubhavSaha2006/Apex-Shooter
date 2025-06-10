@@ -1,5 +1,5 @@
 
-# 🎮 Apex-Shooter
+# 🎮 Apex-Shooter 
 
 [![Play on GitHub Pages](https://img.shields.io/badge/Play-GitHub%20Pages-green?style=for-the-badge&logo=github)](https://anubhavsaha2006.github.io/Apex-Shooter/)
 
