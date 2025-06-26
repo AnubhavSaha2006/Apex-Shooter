@@ -189,7 +189,7 @@ Tile IDs inside each CSV:
 | ------------------- | ------------------------------------------------------ |
 | **Anubhav Saha**    | [@AnubhavSaha2006](https://github.com/AnubhavSaha2006) |
 | **Nakshatra Kumar** | —                                                      |
-| **Kairav Kumar**    | —                                                      |
+| **Kairav Kumar**    | [@KairavKumar](https://github.com/KairavKumar)         |
 
 
 
