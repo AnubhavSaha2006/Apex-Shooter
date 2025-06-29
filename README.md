@@ -188,7 +188,7 @@ Tile IDs inside each CSV:
 | Name                | GitHub                                                 |
 | ------------------- | ------------------------------------------------------ |
 | **Anubhav Saha**    | [@AnubhavSaha2006](https://github.com/AnubhavSaha2006) |
-| **Nakshatra Kumar** | —                                                      |
+| **Nakshatra Kumar** | [@nakshatra0411](https://github.com/nakshatra0411)                                                       |
 | **Kairav Kumar**    | [@KairavKumar](https://github.com/KairavKumar)         |
 
 
